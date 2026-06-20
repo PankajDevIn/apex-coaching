@@ -1,7 +1,8 @@
 import './App.css'
 import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 import Hero from './pages/Hero'
-
+import favicon from './assets/favicon.ico'
+import icons from './assets/icons.svg'
 import Courses from './pages/Courses'
 import Navbar from './component/Navbar'
 import ContactUs from './pages/ContactUs'
