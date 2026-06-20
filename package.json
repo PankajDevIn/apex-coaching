@@ -2,15 +2,16 @@
   "name": "apex-coaching",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://PankajDevIn.github.io/apex-coaching",
+  "homepage": "https://PankajDevIn.github.io/apex-coaching/",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
+   
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+     "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.1",
