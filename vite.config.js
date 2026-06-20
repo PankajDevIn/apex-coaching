@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react(), 
     tailwindcss()
   ],
-  base: '/',
+  base: 'https://pankajdevin.github.io/apex-coaching',
 })
