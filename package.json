@@ -2,7 +2,7 @@
   "name": "apex-coaching",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://PankajDevIn.github.io/apex-coaching",
+  "homepage": "https://PankajDevIn.github.io/apex-coaching/",
   "type": "module",
   "scripts": {
     "dev": "vite",
